@@ -1,4 +1,4 @@
-# ArquiteturaResponsiva
+# Arquitetura Responsiva
 
 Com este projeto consegui aprender e construir um site responsivo.
 
